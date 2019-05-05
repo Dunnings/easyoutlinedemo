@@ -1,7 +1,7 @@
 {
 "companyName": "David Dunnings",
 "productName": "Easy Outline 2.0",
-"productVersion": "0.1",
+"productVersion": "2.0.0",
 "dataUrl": "Demo.data.unityweb",
 "wasmCodeUrl": "Demo.wasm.code.unityweb",
 "wasmFrameworkUrl": "Demo.wasm.framework.unityweb",
